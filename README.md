@@ -1,3 +1,3 @@
 # Local Cloud Mobile Application
 #### By JayMar
-A mobile app to upload/download files from your localhost server
+A very basic mobile app that can upload/download files from your localhost server
